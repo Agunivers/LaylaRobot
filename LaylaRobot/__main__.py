@@ -107,7 +107,7 @@ HELP_STRINGS = """
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
 Powered by :- [Awesome Bots](t.me/Laylalist)"""
 
-layla_IMG = "https://telegra.ph/file/524b78577a42b02b2f074.jpg"
+layla_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Hero](t.me/HEROGAMERS1) \
